@@ -1,0 +1,4 @@
+id,age,income,purchase_encoded
+1,25,50000,1
+2,30,75000,0
+3,35,60000,1
