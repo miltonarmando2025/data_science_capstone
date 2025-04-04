@@ -1,4 +1,6 @@
-id,age,income,purchase_encoded
-1,25,50000,1
-2,30,75000,0
-3,35,60000,1
+id,age,income,purchase
+1,25.0,50000,Yes
+2,30.0,75000,No
+3,29.0,60000,Yes
+4,40.0,82000,No
+5,28.0,48000,Yes
